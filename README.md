@@ -14,3 +14,6 @@ https://www.cnblogs.com/mikechenshare/p/15816262.html
 
 搭建jenkins 
 https://www.cnblogs.com/xuwujing/p/15725595.html
+
+搭建gitlab
+https://www.cnblogs.com/zhangycun/p/10312909.html
