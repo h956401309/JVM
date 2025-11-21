@@ -9,3 +9,8 @@ JVM内存模型：
 直接内存：直接内存并不是虚拟机内存的一部分，也不是Java虚拟机规范中定义的内存区域。jdk1.4中新加入的NIO，引入了通道与缓冲区的IO方式，它可以调用Native方法直接分配堆外内存，这个堆外内存就是本机内存，不会影响到堆内存的大小.
 
 https://www.cnblogs.com/mikechenshare/p/15816262.html
+
+
+
+搭建jenkins 
+https://www.cnblogs.com/xuwujing/p/15725595.html
