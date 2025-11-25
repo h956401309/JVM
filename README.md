@@ -17,3 +17,6 @@ https://www.cnblogs.com/xuwujing/p/15725595.html
 
 搭建gitlab
 https://www.cnblogs.com/zhangycun/p/10312909.html
+
+kafka学习
+https://www.w3cschool.cn/apache_kafka/apache_kafka_cluster_architecture.html
